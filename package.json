@@ -1,0 +1,18 @@
+{
+  "name": "mirai-honeypot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-sdk": "^2.6.12",
+    "express": "^4.14.0",
+    "request": "^2.76.0",
+    "telnet-client": "^0.10.6"
+  }
+}
